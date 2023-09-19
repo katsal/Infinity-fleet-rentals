@@ -26,6 +26,7 @@ Create .env file
 
 `touch .env
 `
+
 Inside .env, set these variables. For any APIs, see group Slack channel.
 
 `CLOUDINARY_URL=your_own_cloudinary_url_key
@@ -55,7 +56,7 @@ Built With
 ## Team Members
 
  1. [Caitlyn Khoo]
- 2. [Kostas Piludas]
+ 2. [Kostas Piludas](https://www.linkedin.com/in/kostas-piludis/)
  3. [Barry]
 
 ## Contributing
