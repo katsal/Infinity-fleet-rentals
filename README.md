@@ -55,9 +55,9 @@ Built With
 
 ## Team Members
 
- 1. [Caitlyn Khoo] (https://www.linkedin.com/in/caitlyn-khoo/)
- 2. [Kostas Piludas] (https://www.linkedin.com/in/kostas-piludis/)
- 3. [Barry Roberts] (https://www.linkedin.com/in/barryrobertsjapan/)
+ 1. [Caitlyn Khoo](https://www.linkedin.com/in/caitlyn-khoo/)
+ 2. [Kostas Piludas](https://www.linkedin.com/in/kostas-piludis/)
+ 3. [Barry Roberts](https://www.linkedin.com/in/barryrobertsjapan/)
 
 ## Contributing
 
